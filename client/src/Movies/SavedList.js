@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
+import { Link } from "react-router-dom";
 const SavedList = props => (
   <div className="saved-list">
     <h3>Saved Movies:</h3>
